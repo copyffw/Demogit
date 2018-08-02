@@ -19,6 +19,8 @@ class ViewController: UIViewController {
         print("branch222")
         print("branch333")
         print("branch444")
+        print("master222")
+        print("master222")
     }
 
     override func didReceiveMemoryWarning() {
