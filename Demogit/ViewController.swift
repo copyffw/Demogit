@@ -15,6 +15,10 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         print("wdw")
         print("master111")
+        print("branch111")
+        print("branch222")
+        print("branch333")
+        print("branch444")
         print("master222")
         print("master222")
     }
