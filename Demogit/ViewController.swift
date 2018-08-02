@@ -15,6 +15,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         print("wdw")
         print("master111")
+        print("branch111")
+        print("branch222")
     }
 
     override func didReceiveMemoryWarning() {
